@@ -10,3 +10,5 @@ Le projet porte sur l'analyse et le traitement de données *single-cell omics*, 
 - Visualisation et annotation des cellules  
 
 Tous les notebooks et scripts fournis permettent de **reproduire les analyses et résultats** présentés.
+
+Je vous conseille de pusher vos modifications sur mon ficher diretement dans de nouveaux notebooks pour garder une trace de vos avancées sous le format (Notebook_nom_jjmmaaaa.ipynb)
